@@ -1,4 +1,4 @@
-# Google Play Review Sentiment Analysis
+# Google Play Review Sentiment and App Success
 
 ### Overview
 This project works to uncover factors that influence Google Play application installs, which serves as a proxy for app success. Two datasets are merged and analyzed to address two hypotheses: 
