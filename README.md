@@ -1,7 +1,7 @@
 # Google Play Review Sentiment and App Success
 
 ### Overview
-This project works to uncover factors that influence Google Play application installs, which serves as a proxy for app success. Two datasets are merged and analyzed to address two hypotheses: 
+This project seeks to uncover factors that influence Google Play application installs, which serves as a proxy for app success. Two datasets are merged and analyzed to address two hypotheses: 
 
 - review sentiment impacts the number of app installs
 - app category impacts the number of app installs
